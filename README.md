@@ -24,6 +24,6 @@ We can build a model that assumes and exponential curve:
 
 We can test to see if we will reach 1 million deaths in America. We obtain a p-value >0.05 indicating that we cannot reject that the curive might hit 1 million deaths.
 
-![](NLSmodel1.PNG)
+![](NLSmodel2.PNG)
 
 This model assumes that deaths will rise exponentially before plateauing and does not take into account the administration of a vaccine which should dampen the number of deaths. Future steps include updating the deaths to include those through February 1st as well as adding a dampening factor into the Non-Linear Regression Model to account for vaccine administration and to model how that will affect deaths across the US.
